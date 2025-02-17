@@ -1,2 +1,0 @@
-# Proyek-Sistem-Pemesanan-dan-Pembayaran-Mandiri-di-Restoran-Pendekatan-Berorientasi-Objek-dengan-Java
-Proyek Sistem Pemesanan dan Pembayaran Mandiri di Restoran ini adalah aplikasi berbasis Java yang dirancang untuk memudahkan proses pemesanan makanan dan pembayaran di restoran secara mandiri. Sistem ini dibangun menggunakan pendekatan berorientasi objek (OOP) untuk memastikan struktur kode yang lebih terorganisir dan mudah dikelola.
